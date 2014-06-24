@@ -7,7 +7,7 @@
 					<View class="iconcontainer">
 						<ImageView class="icon" image="/ic_action_not_important.png"/>
 					</View>
-					<Label class="menucaption">Send in the clowns</Label>
+					<Label class="menucaption">Dining</Label>
 				</View>
 			</TableViewRow>
 			<TableViewRow class="menurowcontainer" rowId="2">
@@ -15,7 +15,7 @@
 					<View class="iconcontainer">
 						<ImageView class="icon" image="/ic_action_not_important.png"/>
 					</View>
-					<Label class="menucaption">Open your eyes Nicolas</Label>
+					<Label class="menucaption">Things to do</Label>
 				</View>
 			</TableViewRow>
 			<TableViewRow class="menurowcontainer" rowId="3">
@@ -23,7 +23,7 @@
 					<View class="iconcontainer">
 						<ImageView class="icon" image="/ic_action_not_important.png"/>
 					</View>
-					<Label class="menucaption">It's not your child</Label>
+					<Label class="menucaption">Where to Stay</Label>
 				</View>
 			</TableViewRow>
 			<TableViewRow class="menurowcontainer" rowId="4">
@@ -31,7 +31,39 @@
 					<View class="iconcontainer">
 						<ImageView class="icon" image="/ic_action_not_important.png"/>
 					</View>
-					<Label class="menucaption">The Glory of the Empire</Label>
+					<Label class="menucaption">Shopping</Label>
+				</View>
+			</TableViewRow>
+						<TableViewRow class="menurowcontainer" rowId="5">
+				<View class="menurow">
+					<View class="iconcontainer">
+						<ImageView class="icon" image="/ic_action_not_important.png"/>
+					</View>
+					<Label class="menucaption">Get Around</Label>
+				</View>
+			</TableViewRow>
+						<TableViewRow class="menurowcontainer" rowId="6">
+				<View class="menurow">
+					<View class="iconcontainer">
+						<ImageView class="icon" image="/ic_action_not_important.png"/>
+					</View>
+					<Label class="menucaption">Nightlife</Label>
+				</View>
+			</TableViewRow>
+						<TableViewRow class="menurowcontainer" rowId="7">
+				<View class="menurow">
+					<View class="iconcontainer">
+						<ImageView class="icon" image="/ic_action_not_important.png"/>
+					</View>
+					<Label class="menucaption">Offers</Label>
+				</View>
+			</TableViewRow>
+						<TableViewRow class="menurowcontainer" rowId="8">
+				<View class="menurow">
+					<View class="iconcontainer">
+						<ImageView class="icon" image="/ic_action_not_important.png"/>
+					</View>
+					<Label class="menucaption">Real Estate</Label>
 				</View>
 			</TableViewRow>
 		</TableView>

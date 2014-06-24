@@ -1,0 +1,7 @@
+<Alloy>
+    <Window class="container">
+        <Label id="label" >Offers
+        	</Label>
+ 
+    </Window>
+</Alloy>

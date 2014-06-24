@@ -27,7 +27,7 @@ $.drawermenu.init({
 thisWin.addEventListener('open',function(e){
 	var actionBarHelper = require('com.alcoapps.actionbarhelper')(thisWin);	
 	actionBarHelper.setIcon('/drawericonw@2x.png');
-	actionBarHelper.setTitle('ActionBar with DrawerMenu');
+	actionBarHelper.setTitle('Menu');
 	actionBarHelper.setUpAction(function(e){
 		$.drawermenu.showhidemenu();
 	});

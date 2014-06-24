@@ -1,0 +1,6 @@
+<Alloy>
+    <Window class="container">
+        <Label id="label" >Dining Information</Label>
+ 
+    </Window>
+</Alloy>

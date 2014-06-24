@@ -1,0 +1,6 @@
+<Alloy>
+    <Window class="container">
+        <Label id="label" >Things to do</Label>
+ 
+    </Window>
+</Alloy>
