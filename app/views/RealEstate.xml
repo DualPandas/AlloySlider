@@ -1,7 +1,22 @@
 <Alloy>
-    <Window class="container">
-        <Label id="label" >Real Estate
-        	</Label>
- 
+    <Window id = "win1" class="container">
+
+    <View id="header" visible="true">
+        <Label>header</Label>
+         <Button onClick="closeWindow">Close Window</Button>
+
+    </View>
+    <ScrollView id="content" visible="true">
+        <Label>content</Label>
+         <Button onClick="closeWindow">Close Window</Button>
+
+    </ScrollView>
+    <View id="footer" visible="true">
+    	 <Button onClick="closeWindow">Close Window</Button>
+
+        <Label>footer</Label>
+    </View>
     </Window>
 </Alloy>
+
+

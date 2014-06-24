@@ -1,4 +1,24 @@
-
-".container" : {
-  
+"#win1": {
+layout: 'vertical',
+width: Ti.UI.FILL,
+height: Ti.UI.FILL,
+backgroundColor: '#000'
+},
+'#header':{
+    layout: 'horizontal',
+    height: '20%',
+    width: Ti.UI.FILL,
+    backgroundColor: 'white',
+},
+'#content': {
+    layout: 'vertical',
+    height: '60%',
+    width: Ti.UI.FILL,
+    backgroundColor: '#ccc'
+},    
+'#footer': {
+    layout: 'horizontal',
+    height: '20%',
+    width: Ti.UI.FILL,
+    backgroundColor: 'green',
 }

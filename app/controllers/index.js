@@ -35,3 +35,10 @@ thisWin.addEventListener('open',function(e){
 });
 
 thisWin.open();
+
+function postcard(){
+}
+function game(){
+}
+function club(){
+}
